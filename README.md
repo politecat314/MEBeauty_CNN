@@ -1,4 +1,4 @@
-# MEBeauty: Facial Beauty Analysis using CNNs
+# Facial Beauty Analysis using CNNs on the MEBeauty database
 
 This repository contains the implementation of our paper on Facial Beauty Analysis Using Distribution Prediction and CNN Ensembles.
 
