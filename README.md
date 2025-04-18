@@ -51,7 +51,3 @@ If you use this code for your research, please cite our paper:
 
 For any questions about these models or the paper, please contact:
 - Ahmed Aman Ibrahim - ahmedamanibrahim@gmail.com
-
-## License
-
-[Specify your license information here]
