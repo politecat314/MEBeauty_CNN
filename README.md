@@ -31,7 +31,7 @@ Our approach employs convolutional neural networks and ensemble learning techniq
 
 ## Citation
 
-If you use this code for your research, please cite our paper:
+If you use this code for your research, please cite our papers:
 
 ```bibtex
 @INPROCEEDINGS{10387332,
@@ -44,6 +44,17 @@ If you use this code for your research, please cite our paper:
   pages={130-135},
   keywords={Deep learning;Computational modeling;Transfer learning;Predictive models;Convolutional neural networks;Task analysis;Faces;Facial Beauty Prediction;Discrete Probability Distribution;Convolutional Neural Networks;Ensemble Learning;Earth Mover's Distance},
   doi={10.1109/SKIMA59232.2023.10387332}
+}
+
+@ARTICLE{Ibrahim2025,
+  author={Ibrahim, A.A. and Ugail, N.H. and Ugail, H.},
+  journal={Discover Artificial Intelligence},
+  title={Is facial beauty in the eyes? A multi-method approach to interpreting facial beauty prediction in machine learning models},
+  year={2025},
+  volume={5},
+  number={},
+  pages={16},
+  doi={10.1007/s44163-025-00226-8}
 }
 ```
 
