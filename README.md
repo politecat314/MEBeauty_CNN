@@ -13,8 +13,8 @@ This repository contains the implementation of our paper on Facial Beauty Analys
 
 3. Set up the Python environment:
    ```bash
-   # Create a conda environment (Python 3.11 recommended)
-   conda create --name beauty python=3.11
+   # Create a conda environment (Python 3.7 recommended)
+   conda create --name beauty python=3.7
    conda activate beauty
    
    # Install required packages
